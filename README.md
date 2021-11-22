@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishwarkoki
 - 👀 I’m interested in Data analysis, data science, deep learning, DSA, python 
-- 🌱 I’m currently learning pyhton and deep lerning
+- 🌱 I’m currently learning python and deep lerning
 - 💞️ I’m looking to collaborate on deep learning projet 
 - 📫 How to reach me https://wa.me/916370008160 
 <!---
